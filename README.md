@@ -1,1 +1,1 @@
-a project inorder to study android
+android事件分发机制测试分析demo

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/red"
+    android:insetBottom="18dp"
+    android:insetLeft="1dp"
+    android:insetRight="10dp"
+    android:insetTop="1dp">
+    <transition>
+        <item android:drawable="@drawable/blue"></item>
+        <item android:drawable="@drawable/gray"></item>
+    </transition>
+
+</inset>

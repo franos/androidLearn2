@@ -1,1 +1,1 @@
-android事件分发机制测试分析demo
+Handler消息机制线程切换思路demo,android事件分发机制测试分析demo
